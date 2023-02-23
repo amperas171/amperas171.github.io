@@ -1,0 +1,54 @@
+[
+    {
+        "id": 4,
+        "title": "chatgpt",
+        "description": "pridumal chatgpt",
+        "points": 4,
+        "date": "2023-02-22T19:48:29.717+00:00",
+        "author": {
+            "id": 4,
+            "username": "yashka",
+            "phone": "89183444531"
+        },
+        "favorite": true
+    },
+    {
+        "id": 2,
+        "title": "kompukter",
+        "description": "pridumal kompukter",
+        "points": 3,
+        "date": "2023-02-22T19:47:17.350+00:00",
+        "author": {
+            "id": 2,
+            "username": "sanya123",
+            "phone": "89183451231"
+        },
+        "favorite": true
+    },
+    {
+        "id": 3,
+        "title": "samolet",
+        "description": "pridumal samolet",
+        "points": 0,
+        "date": "2023-02-22T19:47:41.295+00:00",
+        "author": {
+            "id": 3,
+            "username": "yurchik",
+            "phone": "89183454531"
+        },
+        "favorite": false
+    },
+    {
+        "id": 1,
+        "title": "velik",
+        "description": "pridumal velosiped",
+        "points": 0,
+        "date": "2023-02-22T19:46:58.734+00:00",
+        "author": {
+            "id": 1,
+            "username": "vasvas",
+            "phone": "89181231231"
+        },
+        "favorite": false
+    }
+]
